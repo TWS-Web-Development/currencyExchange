@@ -1,0 +1,21 @@
+#currencies{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background-color: #154270;
+    font-size: 17px;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 7px;
+    padding-right: 7px;
+    cursor: pointer;
+    z-index: 50;
+}
+select{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
